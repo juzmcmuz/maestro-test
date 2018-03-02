@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Don't forget **Bold** and _Italic_ and `Code` text!
 
-![Image](src)
+![Goals FTW](http://californiasupplementalexam.com/wp-content/uploads/2014/01/Goal.jpg)
 
 ### Tactics
 
